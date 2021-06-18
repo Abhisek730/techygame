@@ -1,0 +1,33 @@
+.lemon{
+    background-image: url(editedmo.jpg);
+}
+@media only screen and (max-width: 500px){
+    .lemon{
+        background-image: url(well.jpg);
+    }
+}
+@font-face {
+    font-family:TypoGraphica_demo ;
+    src: url(TypoGraphica_demo.otf);
+}
+.venom p{
+    font-family:'TypoGraphica_demo' ;
+    font-size: 30px;
+}
+.nemo{
+    padding: 4px 32px;
+}
+.navbar{
+    background: black;
+}
+.pea a{
+    text-decoration: none;
+    color:currentColor;
+}
+.nemo a{
+    text-decoration: none;
+    color: white;
+}
+.nemo a:hover{
+    color: black;
+}
