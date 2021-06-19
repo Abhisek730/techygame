@@ -3,7 +3,8 @@
 }
 @media only screen and (max-width: 500px){
     .lemon{
-        background-image: url(well.jpg);
+        background-image: url(dodo.jpg);
+        background-size: cover;
     }
 }
 @font-face {
